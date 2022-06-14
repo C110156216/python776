@@ -1,2 +1,2 @@
-i = input("輸入一字串")
-print("There",len(i),"characters")
+x = str(input("輸入一字串為："))
+print("There are " + str(len(x)) + " characters")
